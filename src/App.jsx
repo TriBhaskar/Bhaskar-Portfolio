@@ -1,8 +1,18 @@
+import {
+  Route,
+  RouterProvider,
+  createBrowserRouter,
+  createRoutesFromElements,
+} from "react-router-dom";
 import "./App.css";
 import "./index.css";
+import Layout from "./components/Layout";
 
 function App() {
-  return <h1 className="text-3xl font-bold underline">HELLO BHASKAR</h1>;
+  const router = createBrowserRouter(
+    createRoutesFromElements(<Route path="/" element={<Layout />}></Route>)
+  );
+  return <RouterProvider router={router} />;
 }
 
 export default App;
