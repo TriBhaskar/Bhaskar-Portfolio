@@ -1,38 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-.content-section {
-  margin: 3rem 0 6rem 0;
-  padding: 0 15%;
-}
-
-.content-section h2 {
-  font-size: 2rem;
-  font-family: "Quicksand", sans-serif;
-  margin: 2rem auto;
-  color: #b6cad5;
-}
-#overview-section {
-  margin: -8rem 0 3rem 0;
-  padding: 8rem 15%;
-  color: #222c31;
-  text-align: center;
-}
-
-#overview-section h2 {
-  font-size: 2.5rem;
-  margin: 2rem auto;
-  color: #1d161a;
-}
-
-#overview-section h2 strong {
-  color: #e30d7c;
-}
-
-#overview-section p {
-  font-size: 1.25rem;
-  line-height: 1.5;
-  font-family: "Quicksand", sans-serif;
-  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.26);
-}
