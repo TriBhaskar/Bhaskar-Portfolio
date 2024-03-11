@@ -1,15 +1,10 @@
-import heroBgImg from "../assets/Waiau.png";
 import { Link } from "react-router-dom";
 
 // Herosection component
 export default function Herosection() {
   return (
     // Hero section container
-    <section
-      className="content-section"
-      id="overview-section"
-      style={{ backgroundImage: `url(${heroBgImg})` }}
-    >
+    <section className="h-96 m-0 p-8 justify-center items-center text-center">
       <h2>
         adding header <br />
         or <strong>find a new passion</strong>
