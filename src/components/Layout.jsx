@@ -7,7 +7,7 @@ export default function Layout() {
   return (
     <>
       <section
-        className="w-screen h-3/4 bg-cover bg-center bg-no-repeat"
+        className="w-screen h-3/4 bg-cover bg-center bg-no-repeat bg-blend-color-dodge"
         style={{ backgroundImage: `url(${heroBgImg})` }}
       >
         <Header></Header>
