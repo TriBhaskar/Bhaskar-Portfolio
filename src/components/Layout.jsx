@@ -1,4 +1,3 @@
-import heroBgImg from "../assets/Waiau.png";
 import bgImg from "../assets/stacked-peaks-haikei.svg";
 import Content from "./Content";
 import Profile from "./Profile";
