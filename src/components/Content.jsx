@@ -150,7 +150,7 @@ export default function Content() {
           </ol>
           <div className="mt-12">
             <a
-              className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold text-slate-200 group/link text-base"
+              className="inline-flex items-baseline leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold group/link text-base"
               href="/resume.pdf"
               target="_blank"
               rel="noreferrer noopener"
@@ -305,7 +305,7 @@ export default function Content() {
           </ul>
           <div className="mt-12">
             <a
-              className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold text-slate-200 group/link text-base"
+              className="inline-flex items-baseline leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold group/link text-base"
               href="/resume.pdf"
               target="_blank"
               rel="noreferrer noopener"
