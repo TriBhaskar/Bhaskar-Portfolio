@@ -10,13 +10,16 @@ export default function Profile() {
         <h2 className="mt-3 text-lg font-medium text-[#40408a] tracking-tight text- sm: text-xl">
           Junior Software Engineer
         </h2>
-        <p className="mt-4 max-w-xs leading-normal text-slate-500">
+        <p className="mt-4 max-w-xs leading-normal text-slate-400">
           Backend Engineer with React Flair: Building robust systems & exploring
           UIs. Explore my projects!
         </p>
         <Navbar />
       </div>
-      <ul className="ml-1 mt-8 flex items-center" aria-label="Social media">
+      <ul
+        className="ml-1 mt-8 flex items-center text-slate-400"
+        aria-label="Social media"
+      >
         <li className="mr-5 text-xs shrink-0">
           <a
             className="block hover:text-slate-200"
