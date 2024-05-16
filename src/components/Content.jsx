@@ -76,22 +76,22 @@ export default function Content() {
                     aria-label="Technologies used"
                   >
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                      <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
                         JavaScript
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                      <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
                         TypeScript
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                      <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
                         React
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                      <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
                         Storybook
                       </div>
                     </li>
@@ -124,22 +124,22 @@ export default function Content() {
                     aria-label="Technologies used"
                   >
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                      <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
                         JavaScript
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                      <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
                         TypeScript
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                      <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
                         React
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                      <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
                         Storybook
                       </div>
                     </li>
@@ -150,7 +150,7 @@ export default function Content() {
           </ol>
           <div className="mt-12">
             <a
-              className="inline-flex items-baseline leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold group/link text-base"
+              className="inline-flex items-baseline leading-tight text-slate-200 hover:text-color1 focus-visible:color1 font-semibold group/link text-base"
               href="/resume.pdf"
               target="_blank"
               rel="noreferrer noopener"
@@ -198,7 +198,7 @@ export default function Content() {
                 <div className="z-10 sm:order-2 sm:col-span-6">
                   <h3>
                     <a
-                      className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
+                      className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-color1 focus-visible:text-color1  group/link text-base"
                       href="https://www.newline.co/courses/build-a-spotify-connected-app"
                       target="_blank"
                       rel="noreferrer noopener"
@@ -253,7 +253,7 @@ export default function Content() {
                 <div className="z-10 sm:order-2 sm:col-span-6">
                   <h3>
                     <a
-                      className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
+                      className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-color1 focus-visible:text-color1 group/link text-base"
                       href="https://www.newline.co/courses/build-a-spotify-connected-app"
                       target="_blank"
                       rel="noreferrer noopener"
@@ -305,7 +305,7 @@ export default function Content() {
           </ul>
           <div className="mt-12">
             <a
-              className="inline-flex items-baseline leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold group/link text-base"
+              className="inline-flex items-baseline leading-tight text-slate-200 hover:text-color1 focus-visible:text-color1 font-semibold group/link text-base"
               href="/resume.pdf"
               target="_blank"
               rel="noreferrer noopener"
@@ -359,7 +359,7 @@ export default function Content() {
                   <p className="-mt-1 text-sm font-semibold leading-6">2020</p>
                   <h3 className="-mt-1">
                     <a
-                      className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
+                      className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-color1 focus-visible:text-color1  group/link text-base"
                       href="https://upstatement.com/blog/integrating-algolia-search-with-wordpress-multisite/"
                       target="_blank"
                       rel="noreferrer noopener"

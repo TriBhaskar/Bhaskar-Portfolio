@@ -7,7 +7,7 @@ export default function Profile() {
         <h1 className="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl ">
           <a href="">Bhaskar Panthri</a>
         </h1>
-        <h2 className="mt-3 text-lg font-medium text-[#40408a] tracking-tight text- sm: text-xl">
+        <h2 className="mt-3 text-lg font-medium text-[#8d8dff] tracking-tight text- sm: text-xl">
           Junior Software Engineer
         </h2>
         <p className="mt-4 max-w-xs leading-normal text-slate-400">
