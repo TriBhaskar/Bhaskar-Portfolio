@@ -1,3 +1,4 @@
+import BackgroundAnimation from "./BackgroundAnimation";
 import Navbar from "./Navbar";
 
 export default function Profile() {
@@ -15,6 +16,9 @@ export default function Profile() {
           UIs. Explore my projects!
         </p>
         <Navbar />
+        <div>
+          <BackgroundAnimation />
+        </div>
       </div>
       <ul
         className="ml-1 mt-8 flex items-center text-slate-400"
