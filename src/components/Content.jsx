@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import projImg from "../assets/Waiau.png";
 export default function Content() {
   return (
@@ -15,26 +16,31 @@ export default function Content() {
         </div>
         <div>
           <p className="mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error
-            praesentium eligendi reprehenderit quo, atque quis nemo asperiores
-            laborum porro similique officiis tenetur deleniti excepturi facere
-            ab! Cumque molestiae iure laborum neque odio sint fugiat rem non ea
-            harum quaerat at quia suscipit soluta mollitia, velit nihil repellat
-            corporis impedit esse unde inventore nostrum aperiam porro. Fuga
+            Back in the last year of my undergraduate studies in computer
+            science, I delved into the world of web development, learning HTML,
+            CSS, basic JavaScript, jQuery, and PHP while working on my final
+            semester project. Fast-forward to my third semester of my Masters
+            program (MCA), I developed an e-commerce mobile app within 15 days,
+            marking my first significant project. Shortly after, I secured my
+            first full-time job as a Junior Software Engineer at Giesecke &
+            Devrient.
+          </p>
+          <p className="mb-4">
+            During the last semester of my masters, I gained practical
+            experience as a Flutter Developer Intern at Mirror Infotech for
+            three months. This opportunity paved the way for my role at Giesecke
+            & Devrient. My main focus now is to expand my technological
+            expertise, develop more software and applications, and transition
+            into a full-stack developer. Recently, I learned React and have a
+            solid foundation in Node.js, Java, Spring, and Spring Boot, which I
+            leverage to create full-stack applications.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error
-            praesentium eligendi reprehenderit quo, atque quis nemo asperiores
-            laborum porro similique officiis tenetur deleniti excepturi facere
-            ab! Cumque molestiae iure laborum neque odio sint fugiat rem non ea
-            harum quaerat at quia suscipit soluta mollitia, velit nihil repellat
-            corporis impedit esse unde inventore nostrum aperiam porro. Fuga
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error ab!
-            Cumque molestiae iure laborum neque odio sint fugiat rem non ea
-            harum quaerat at quia suscipit soluta mollitia, velit nihil repellat
-            corporis impedit esse unde inventore nostrum aperiam porro. Fuga
+            What I enjoy most is problem-solving and developing new features.
+            Although I havent released any notable side projects yet, I'm
+            currently working on one that I’m excited about. Outside of work, I
+            indulge in digital art, a passion of mine, and enjoy playing PC
+            games and reading when I find the time.
           </p>
         </div>
       </section>
@@ -52,7 +58,7 @@ export default function Content() {
         <div>
           <ol className="group/list">
             <li className="mb-12">
-              <div className="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-50">
+              <div className="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
                 <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                 <header
                   className="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2"
@@ -65,11 +71,15 @@ export default function Content() {
                     Junior Software Engineer - Giesecke and Devrient
                   </h3>
                   <p className="mt-2 text-sm leading-normal">
-                    Build and maintain critical components used to construct
-                    Klaviyo’s frontend, across the whole product. Work closely
-                    with cross-functional teams, including developers,
-                    designers, and product managers, to implement and advocate
-                    for best practices in web accessibility.
+                    I explored Esim technology in the Telecom domain and
+                    evaluated Monolithic and Microservice architectures in a
+                    delivery platform project. I mastered Git, Bitbucket, Jira,
+                    and Confluence for efficient collaboration. I expanded my
+                    expertise in large-scale applications, focusing on
+                    inter-application communication and monitoring tools like
+                    Splunk. Additionally, I developed secure backend services
+                    with Spring Boot, implemented APIs with SOAP and REST, and
+                    gained basic front-end skills with Angular.
                   </p>
                   <ul
                     className="mt-2 flex flex-wrap"
@@ -77,22 +87,22 @@ export default function Content() {
                   >
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
-                        JavaScript
+                        Java
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
-                        TypeScript
+                        Spring
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
-                        React
+                        SpringBoot
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
-                        Storybook
+                        Angular
                       </div>
                     </li>
                   </ul>
