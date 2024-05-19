@@ -120,14 +120,18 @@ export default function Content() {
                 </header>
                 <div className="z-10 sm:col-span-6">
                   <h3 className="font-medium leading-snug text-slate-200">
-                    Junior Software Engineer - Giesecke and Devrient
+                    Flutter Developer Intern - Mirror Infotech
                   </h3>
                   <p className="mt-2 text-sm leading-normal">
-                    Build and maintain critical components used to construct
-                    Klaviyo’s frontend, across the whole product. Work closely
-                    with cross-functional teams, including developers,
-                    designers, and product managers, to implement and advocate
-                    for best practices in web accessibility.
+                    At Mirror Infotech, a leading SaaS company, I specialized in
+                    mobile application development using Flutter. I played a key
+                    role in developing, debugging, and testing Defender, a
+                    mobile security and cleaning application. This experience
+                    allowed me to deepen my expertise in Flutter, mastering
+                    clean code practices and innovative coding patterns. Working
+                    within an Agile framework, I effectively collaborated with
+                    cross-functional teams, ensuring timely and efficient
+                    delivery of high-quality software.
                   </p>
                   <ul
                     className="mt-2 flex flex-wrap"
@@ -135,22 +139,27 @@ export default function Content() {
                   >
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
-                        JavaScript
+                        Dart
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
-                        TypeScript
+                        Flutter
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
-                        React
+                        Nodejs
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
-                        Storybook
+                        Firebase
+                      </div>
+                    </li>
+                    <li className="mr-1.5 mt-2">
+                      <div className="flex items-center rounded-full bg-slate-800 px-3 py-1 text-xs font-medium leading-5 text-color1 ">
+                        Postgres
                       </div>
                     </li>
                   </ul>
