@@ -242,7 +242,7 @@ export default function Project() {
         <div className="mt-12">
           <a
             className="inline-flex items-baseline leading-tight text-slate-200 hover:text-color1 focus-visible:text-color1 font-semibold group/link text-base"
-            href="/resume.pdf"
+            href="/BhaskarResume.pdf"
             target="_blank"
             rel="noreferrer noopener"
             aria-label="View Full Résumé (opens in a new tab)"
