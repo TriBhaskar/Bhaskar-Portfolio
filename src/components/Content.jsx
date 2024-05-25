@@ -34,20 +34,20 @@ export default function Content() {
                   src={projImg}
                 />
                 <div className="z-10 col-span-6">
-                  <p className="-mt-1 text-sm font-semibold leading-6">2020</p>
+                  <p className="-mt-1 text-sm font-semibold leading-6">2024</p>
                   <h3 className="-mt-1">
                     <a
                       className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-color1 focus-visible:text-color1  group/link text-base"
-                      href="https://upstatement.com/blog/integrating-algolia-search-with-wordpress-multisite/"
+                      // href="https://upstatement.com/blog/integrating-algolia-search-with-wordpress-multisite/"
                       target="_blank"
                       rel="noreferrer noopener"
                       aria-label="Integrating Algolia Search with WordPress Multisite (opens in a new tab)"
                     >
                       <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                       <span>
-                        Integrating Algolia Search with WordPress
+                        Developing an app for astrology readings and
+                        compatibility insights.
                         <span className="inline-block">
-                          Multisite
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             viewBox="0 0 20 20"
@@ -71,7 +71,7 @@ export default function Content() {
           </ul>
         </div>
       </section>
-      <footer className="max-w-md pb-16 text-sm text-slate-500 sm:pb-0">
+      {/* <footer className="max-w-md pb-16 text-sm text-slate-500 sm:pb-0">
         <p>
           Loosely designed in
           <a
@@ -134,7 +134,7 @@ export default function Content() {
           </a>{" "}
           typeface.
         </p>
-      </footer>
+      </footer> */}
     </main>
   );
 }

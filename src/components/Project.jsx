@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import projImg from "../assets/Waiau.png";
 import Images from "../assets/Images";
 export default function Project() {
@@ -28,7 +29,7 @@ export default function Project() {
                   >
                     <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                     <span>
-                      Build a Spotify Connected
+                      Event Management
                       <span className="inline-block">
                         App
                         <svg
@@ -49,10 +50,11 @@ export default function Project() {
                   </a>
                 </h3>
                 <p className="mt-2 text-sm leading-normal">
-                  Video course that teaches how to build a web app with the
-                  Spotify Web API. Topics covered include the principles of REST
-                  APIs, user auth flows, Node, Express, React, Styled
-                  Components, and more.
+                  Built a user-friendly event management app to streamline your
+                  schedule. Effortlessly create, edit, and sort events based on
+                  your needs. The intuitive interface, powered by React, keeps
+                  you organized while the robust Node.js backend ensures
+                  everything runs smoothly.
                 </p>
               </div>
               <img
@@ -83,7 +85,7 @@ export default function Project() {
                   >
                     <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                     <span>
-                      Build a Spotify Connected
+                      MobiPharama
                       <span className="inline-block">
                         App
                         <svg
@@ -104,10 +106,12 @@ export default function Project() {
                   </a>
                 </h3>
                 <p className="mt-2 text-sm leading-normal">
-                  Video course that teaches how to build a web app with the
-                  Spotify Web API. Topics covered include the principles of REST
-                  APIs, user auth flows, Node, Express, React, Styled
-                  Components, and more.
+                  Built MobiPharama, a one-stop shop for all your medical needs.
+                  Order ayurveda, babycare, skincare, and more, delivered
+                  straight to your door. Our user-friendly app (Flutter)
+                  integrates seamlessly with Firebase (backend & Firestore
+                  database) for a smooth and secure experience. Login, register,
+                  and pay online - it's that easy!
                 </p>
               </div>
               <img
@@ -138,7 +142,7 @@ export default function Project() {
                   >
                     <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                     <span>
-                      Build a Spotify Connected
+                      Shikafood
                       <span className="inline-block">
                         App
                         <svg
@@ -159,10 +163,10 @@ export default function Project() {
                   </a>
                 </h3>
                 <p className="mt-2 text-sm leading-normal">
-                  Video course that teaches how to build a web app with the
-                  Spotify Web API. Topics covered include the principles of REST
-                  APIs, user auth flows, Node, Express, React, Styled
-                  Components, and more.
+                  Skip the menus, savor the food! Shikafood delivers with a
+                  user-friendly React web app. Browse menus, find hidden gems,
+                  and order your favorites - all with a sleek, intuitive
+                  interface. Shikafood: food delivery, simplified.
                 </p>
               </div>
               <img
@@ -193,7 +197,7 @@ export default function Project() {
                   >
                     <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                     <span>
-                      Build a Spotify Connected
+                      Epharma Store
                       <span className="inline-block">
                         App
                         <svg
@@ -214,10 +218,10 @@ export default function Project() {
                   </a>
                 </h3>
                 <p className="mt-2 text-sm leading-normal">
-                  Video course that teaches how to build a web app with the
-                  Spotify Web API. Topics covered include the principles of REST
-                  APIs, user auth flows, Node, Express, React, Styled
-                  Components, and more.
+                  Epharma delivers! This Django web app (SQLite database)
+                  simplifies medical shopping. Browse categories, order
+                  supplies, and manage your account - all with Django's built-in
+                  security and user features.
                 </p>
               </div>
               <img
